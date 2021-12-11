@@ -1,0 +1,23 @@
+namespace: mdhowle
+name: ad
+version: 1.0.2
+description: Active Directory dynamic inventory plugin
+readme: README.md
+
+dependencies: {}
+
+authors:
+- Matthew Howle <mdhowle@gmail.com>
+
+license:
+- MIT
+
+tags:
+  - ad
+  - activedirectory
+  - inventory
+  - plugin
+
+repository: https://github.com/mdhowle/ansible-galaxy-ad
+issues: https://github.com/mdhowle/ansible-galaxy-ad/issues
+
